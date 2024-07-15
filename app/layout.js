@@ -9,7 +9,7 @@ export const metadata = {
   description: 'The best movies on the best framework',
 }
 
-export default function RootLayout({ children, nav }) {
+export default function RootLayout({ children }) {
 
   return (
     <html lang="en">
